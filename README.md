@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 ## 👋 Hi, I'm Anumba Emeka Henry
 
 I am an aspiring data scientist applying for MSc programs in Data Science and
@@ -21,4 +20,4 @@ and time series forecasting using real-world European datasets.
 - Git & GitHub
 
 📌 All projects are documented with notebooks and reproducible workflows.
--->
+
