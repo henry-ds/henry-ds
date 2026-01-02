@@ -1,16 +1,24 @@
 ## Hi there 👋
 
 <!--
-**henry-ds/henry-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Anumba Emeka Henry
 
-Here are some ideas to get you started:
+I am an aspiring data scientist applying for MSc programs in Data Science and
+Advanced Analytics. My interests include applied analytics, machine learning,
+and time series forecasting using real-world European datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔍 Featured Projects
+- **Airbnb Price Prediction (European Cities)**  
+  Machine learning models to analyze and predict Airbnb pricing factors.
+
+- **Airbnb Demand Forecasting (Lisbon, Portugal)**  
+  Time series analysis using SARIMA models to capture seasonal demand patterns.
+
+### 🛠 Tools & Skills
+- Python, pandas, numpy
+- scikit-learn, statsmodels
+- Data visualization (matplotlib, seaborn)
+- Git & GitHub
+
+📌 All projects are documented with notebooks and reproducible workflows.
 -->
