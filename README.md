@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Hi, I'm Anumba Emeka Henry
 
 I am an aspiring data scientist applying for MSc programs in Data Science and
