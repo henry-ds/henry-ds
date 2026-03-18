@@ -11,7 +11,7 @@ I have experience working with Python, statistical modeling, and predictive anal
 
 ### 🔍 Featured Projects
 
-- **Customer Purchase Prediction (Machine Learning)**
+- **Customer Purchase Prediction (Machine Learning)**  
   Predictive models to identify customer purchase behavior  
 
 - **Airbnb Price Prediction (European Cities)**  
