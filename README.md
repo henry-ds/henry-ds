@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Anumba Emeka Henry
 
 🎯 Data Analyst | Data Science & Customer Analytics
+
 📍 Background in Mathematics & Statistics  
 
 ## About Me
