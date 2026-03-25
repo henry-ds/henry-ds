@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Anumba Emeka Henry
+## 👋 Hi, I'm Emeka Henry Anumba
 
 🎯 Data Analyst | Data Science & Customer Analytics
 
