@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Anumba Emeka Henry
 
-🎯 Aspiring Data Scientist | Data-Driven Marketing Enthusiast  
+🎯 Data Analyst | Data Science & Customer Analytics
 📍 Background in Mathematics & Statistics  
 
 ## About Me
